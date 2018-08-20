@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\bin\Debug\netcoreapp2.0\Calorie Calculator.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Calorie Calculator\obj\Debug\netcoreapp2.0\Calorie Calculator.pdb

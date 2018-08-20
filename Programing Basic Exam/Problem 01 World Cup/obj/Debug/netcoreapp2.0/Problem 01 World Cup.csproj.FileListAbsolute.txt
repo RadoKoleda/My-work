@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\bin\Debug\netcoreapp2.0\Problem 01 World Cup.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\bin\Debug\netcoreapp2.0\Problem 01 World Cup.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\bin\Debug\netcoreapp2.0\Problem 01 World Cup.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\bin\Debug\netcoreapp2.0\Problem 01 World Cup.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\bin\Debug\netcoreapp2.0\Problem 01 World Cup.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 01 World Cup\obj\Debug\netcoreapp2.0\Problem 01 World Cup.pdb

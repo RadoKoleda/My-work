@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\bin\Debug\netcoreapp2.0\Cat Shelter.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\bin\Debug\netcoreapp2.0\Cat Shelter.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\bin\Debug\netcoreapp2.0\Cat Shelter.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\bin\Debug\netcoreapp2.0\Cat Shelter.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\bin\Debug\netcoreapp2.0\Cat Shelter.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Cat Shelter\obj\Debug\netcoreapp2.0\Cat Shelter.csprojAssemblyReference.cache

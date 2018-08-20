@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\bin\Debug\netcoreapp2.0\Histogram.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\bin\Debug\netcoreapp2.0\Histogram.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\bin\Debug\netcoreapp2.0\Histogram.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\bin\Debug\netcoreapp2.0\Histogram.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\bin\Debug\netcoreapp2.0\Histogram.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Histogram\obj\Debug\netcoreapp2.0\Histogram.pdb

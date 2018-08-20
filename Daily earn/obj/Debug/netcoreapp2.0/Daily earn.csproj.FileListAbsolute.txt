@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\bin\Debug\netcoreapp2.0\Daily earn.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\bin\Debug\netcoreapp2.0\Daily earn.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\bin\Debug\netcoreapp2.0\Daily earn.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\bin\Debug\netcoreapp2.0\Daily earn.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\bin\Debug\netcoreapp2.0\Daily earn.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Daily earn\obj\Debug\netcoreapp2.0\Daily earn.pdb

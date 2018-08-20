@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\bin\Debug\netcoreapp2.0\Problem 02 Replika Ball.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\bin\Debug\netcoreapp2.0\Problem 02 Replika Ball.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\bin\Debug\netcoreapp2.0\Problem 02 Replika Ball.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\bin\Debug\netcoreapp2.0\Problem 02 Replika Ball.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\bin\Debug\netcoreapp2.0\Problem 02 Replika Ball.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 02 Replika Ball\obj\Debug\netcoreapp2.0\Problem 02 Replika Ball.pdb

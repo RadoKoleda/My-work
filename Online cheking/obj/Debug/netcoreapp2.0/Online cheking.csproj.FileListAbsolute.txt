@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\bin\Debug\netcoreapp2.0\Online cheking.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\bin\Debug\netcoreapp2.0\Online cheking.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\bin\Debug\netcoreapp2.0\Online cheking.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\bin\Debug\netcoreapp2.0\Online cheking.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\bin\Debug\netcoreapp2.0\Online cheking.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Online cheking\obj\Debug\netcoreapp2.0\Online cheking.pdb

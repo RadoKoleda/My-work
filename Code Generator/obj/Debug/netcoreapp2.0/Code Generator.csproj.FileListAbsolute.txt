@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\bin\Debug\netcoreapp2.0\Code Generator.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\bin\Debug\netcoreapp2.0\Code Generator.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\bin\Debug\netcoreapp2.0\Code Generator.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\bin\Debug\netcoreapp2.0\Code Generator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\bin\Debug\netcoreapp2.0\Code Generator.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Code Generator\obj\Debug\netcoreapp2.0\Code Generator.pdb

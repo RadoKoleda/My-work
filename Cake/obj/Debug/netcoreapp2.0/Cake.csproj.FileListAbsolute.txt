@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\bin\Debug\netcoreapp2.0\Cake.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\bin\Debug\netcoreapp2.0\Cake.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\bin\Debug\netcoreapp2.0\Cake.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\bin\Debug\netcoreapp2.0\Cake.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\bin\Debug\netcoreapp2.0\Cake.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cake\obj\Debug\netcoreapp2.0\Cake.pdb

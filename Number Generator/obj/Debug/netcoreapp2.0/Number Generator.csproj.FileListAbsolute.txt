@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\bin\Debug\netcoreapp2.0\Number Generator.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\bin\Debug\netcoreapp2.0\Number Generator.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\bin\Debug\netcoreapp2.0\Number Generator.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\bin\Debug\netcoreapp2.0\Number Generator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\bin\Debug\netcoreapp2.0\Number Generator.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Number Generator\obj\Debug\netcoreapp2.0\Number Generator.pdb

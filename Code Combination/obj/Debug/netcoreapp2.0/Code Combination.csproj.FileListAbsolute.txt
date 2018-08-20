@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\bin\Debug\netcoreapp2.0\Code Combination.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\bin\Debug\netcoreapp2.0\Code Combination.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\bin\Debug\netcoreapp2.0\Code Combination.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\bin\Debug\netcoreapp2.0\Code Combination.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\bin\Debug\netcoreapp2.0\Code Combination.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Code Combination\obj\Debug\netcoreapp2.0\Code Combination.pdb

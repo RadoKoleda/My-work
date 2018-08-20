@@ -1,0 +1,10 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\bin\Debug\netcoreapp2.0\Hospital.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\bin\Debug\netcoreapp2.0\Hospital.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\bin\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\bin\Debug\netcoreapp2.0\Hospital.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\obj\Debug\netcoreapp2.0\Hospital.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\obj\Debug\netcoreapp2.0\Hospital.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\obj\Debug\netcoreapp2.0\Hospital.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Hospital\obj\Debug\netcoreapp2.0\Hospital.pdb

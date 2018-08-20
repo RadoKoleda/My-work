@@ -1,0 +1,10 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\bin\Debug\netcoreapp2.0\Two Number Sum.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\bin\Debug\netcoreapp2.0\Two Number Sum.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\bin\Debug\netcoreapp2.0\Two Number Sum.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\bin\Debug\netcoreapp2.0\Two Number Sum.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\bin\Debug\netcoreapp2.0\Two Number Sum.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\obj\Debug\netcoreapp2.0\Two Number Sum.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\obj\Debug\netcoreapp2.0\Two Number Sum.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\obj\Debug\netcoreapp2.0\Two Number Sum.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\obj\Debug\netcoreapp2.0\Two Number Sum.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Two Number Sum\obj\Debug\netcoreapp2.0\Two Number Sum.pdb

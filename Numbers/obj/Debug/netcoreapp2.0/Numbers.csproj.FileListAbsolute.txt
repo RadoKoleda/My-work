@@ -1,0 +1,10 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\bin\Debug\netcoreapp2.0\Numbers.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\bin\Debug\netcoreapp2.0\Numbers.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\bin\Debug\netcoreapp2.0\Numbers.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\bin\Debug\netcoreapp2.0\Numbers.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\bin\Debug\netcoreapp2.0\Numbers.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\obj\Debug\netcoreapp2.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\obj\Debug\netcoreapp2.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\obj\Debug\netcoreapp2.0\Numbers.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\obj\Debug\netcoreapp2.0\Numbers.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Numbers\obj\Debug\netcoreapp2.0\Numbers.pdb

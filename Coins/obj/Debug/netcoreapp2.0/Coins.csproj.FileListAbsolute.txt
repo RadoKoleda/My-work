@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\bin\Debug\netcoreapp2.0\Coins.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\bin\Debug\netcoreapp2.0\Coins.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\bin\Debug\netcoreapp2.0\Coins.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\bin\Debug\netcoreapp2.0\Coins.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\bin\Debug\netcoreapp2.0\Coins.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Coins\obj\Debug\netcoreapp2.0\Coins.pdb

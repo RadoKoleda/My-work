@@ -1,0 +1,10 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\bin\Debug\netcoreapp2.0\Happy Cat.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\bin\Debug\netcoreapp2.0\Happy Cat.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\bin\Debug\netcoreapp2.0\Happy Cat.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\bin\Debug\netcoreapp2.0\Happy Cat.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\bin\Debug\netcoreapp2.0\Happy Cat.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\obj\Debug\netcoreapp2.0\Happy Cat.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\obj\Debug\netcoreapp2.0\Happy Cat.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\obj\Debug\netcoreapp2.0\Happy Cat.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\obj\Debug\netcoreapp2.0\Happy Cat.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Happy Cat\obj\Debug\netcoreapp2.0\Happy Cat.pdb

@@ -1,0 +1,10 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\bin\Debug\netcoreapp2.0\Cash and Coins DDD.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\bin\Debug\netcoreapp2.0\Cash and Coins DDD.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\bin\Debug\netcoreapp2.0\Cash and Coins DDD.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\bin\Debug\netcoreapp2.0\Cash and Coins DDD.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\bin\Debug\netcoreapp2.0\Cash and Coins DDD.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\obj\Debug\netcoreapp2.0\Cash and Coins DDD.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\obj\Debug\netcoreapp2.0\Cash and Coins DDD.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\obj\Debug\netcoreapp2.0\Cash and Coins DDD.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\obj\Debug\netcoreapp2.0\Cash and Coins DDD.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Cash and Coins DDD\obj\Debug\netcoreapp2.0\Cash and Coins DDD.pdb

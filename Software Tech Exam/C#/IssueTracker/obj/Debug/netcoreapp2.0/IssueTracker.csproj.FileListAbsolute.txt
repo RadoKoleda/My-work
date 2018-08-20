@@ -1,0 +1,11 @@
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csprojAssemblyReference.cache
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.csproj.CoreCompileInputs.cache
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfoInputs.cache
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.AssemblyInfo.cs
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.deps.json
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.json
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.runtimeconfig.dev.json
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\bin\Debug\netcoreapp2.0\IssueTracker.pdb
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.dll
+C:\Users\A515\Desktop\software tech\DAFAKINexam\C#\IssueTracker\obj\Debug\netcoreapp2.0\IssueTracker.pdb

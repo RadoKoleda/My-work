@@ -1,0 +1,11 @@
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\bin\Debug\netcoreapp2.0\Problem 04 Group Stage.deps.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\bin\Debug\netcoreapp2.0\Problem 04 Group Stage.runtimeconfig.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\bin\Debug\netcoreapp2.0\Problem 04 Group Stage.runtimeconfig.dev.json
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\bin\Debug\netcoreapp2.0\Problem 04 Group Stage.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\bin\Debug\netcoreapp2.0\Problem 04 Group Stage.pdb
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.csprojAssemblyReference.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.csproj.CoreCompileInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.AssemblyInfoInputs.cache
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.AssemblyInfo.cs
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.dll
+C:\Users\A515\source\repos\Programing Basic Exam\Problem 04 Group Stage\obj\Debug\netcoreapp2.0\Problem 04 Group Stage.pdb
